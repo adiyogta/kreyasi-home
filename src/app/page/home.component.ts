@@ -113,7 +113,7 @@ interface FaqItem {
       </div>
     </div>
     <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-      <img class="object-cover object-center rounded" alt="hero" src="https://res.cloudinary.com/dvqq3izfb/image/upload/v1727972492/undangan-online-cetak-murah-yogyakarta-jakarta-bandung-lampung-solo-surakarta-kreyasi-solusi-undangan_m4bapz.png">
+      <img class="object-cover object-center rounded" alt="hero" src="https://res.cloudinary.com/dvqq3izfb/image/upload/v1728912900/undangan-online-cetak-murah-yogyakarta-jakarta-bandung-lampung-solo-surakarta-kreyasi-solusi-undangan_ymvb3p.png">
     </div>
   </div>
 </section>
@@ -430,42 +430,42 @@ export class HomeComponent {
   ];
   katalogItems: KatalogItem[] = [
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Rustic Elegance',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain elegan dengan sentuhan rustic yang hangat, cocok untuk pernikahan outdoor atau garden party.',
       price: 'Rp 125.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Modern Minimalist',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain minimalis modern dengan layout yang bersih dan typography yang elegan.',
       price: 'Rp 150.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Floral Dream',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain romantis dengan ilustrasi bunga yang indah, sempurna untuk pernikahan dengan tema garden.',
       price: 'Rp 175.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Classic Gold',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain mewah dengan aksen emas, memberikan kesan elegant dan timeless.',
       price: 'Rp 200.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Geometric Art',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain kontemporer dengan elemen geometris yang modern dan sophisticated.',
       price: 'Rp 150.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Watercolor Beauty',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain artistic dengan efek cat air yang lembut dan romantis.',
