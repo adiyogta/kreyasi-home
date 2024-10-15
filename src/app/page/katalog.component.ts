@@ -232,63 +232,63 @@ export class CatalogComponent {
     currentYear = new Date().getFullYear();
   catalogItems: CatalogItem[] = [
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Rustic Elegance',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain elegan dengan sentuhan rustic yang hangat, cocok untuk pernikahan outdoor atau garden party.',
       price: 'Rp 125.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Modern Minimalist',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain minimalis modern dengan layout yang bersih dan typography yang elegan.',
       price: 'Rp 150.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Floral Dream',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain romantis dengan ilustrasi bunga yang indah, sempurna untuk pernikahan dengan tema garden.',
       price: 'Rp 175.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Classic Gold',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain mewah dengan aksen emas, memberikan kesan elegant dan timeless.',
       price: 'Rp 200.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Geometric Art',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain kontemporer dengan elemen geometris yang modern dan sophisticated.',
       price: 'Rp 150.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Watercolor Beauty',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain artistic dengan efek cat air yang lembut dan romantis.',
       price: 'Rp 175.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Tropical Paradise',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain segar dengan motif tropis, cocok untuk pernikahan di pantai atau tema musim panas.',
       price: 'Rp 175.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Vintage Charm',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain klasik dengan sentuhan vintage yang memukau, sempurna untuk pernikahan bertema retro.',
       price: 'Rp 150.000'
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728010580/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_gzoaol.png',
+      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728913444/undangan-online-pembuatan-cepat-harga-terjangkau-desain-fresh-kreyasi-yogyakarta-cetak_f5cb0z.png',
       title: 'Bohemian Dreams',
       subtitle: 'TEMPLATE PREMIUM',
       description: 'Desain boho-chic yang unik, ideal untuk pasangan yang mencari gaya yang lebih santai dan artistic.',
