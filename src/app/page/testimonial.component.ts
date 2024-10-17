@@ -3,7 +3,6 @@ import { Component } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterModule } from '@angular/router';
 
 interface Testimonial {
-  image: string;
   name: string;
   location: string;
   review: string;
@@ -92,8 +91,7 @@ interface Testimonial {
           @for (testimonial of testimonials; track testimonial.name) {
             <div class="lg:w-1/3 lg:mb-0 mb-6 p-4">
               <div class="h-full text-center bg-white p-8 rounded-xl shadow-md">
-                <img class="w-20 h-20 mb-8 p-1 object-contain object-center rounded-full inline-block border-4 border-[#4C6957]" 
-                     [src]="testimonial.image" [alt]="testimonial.name">
+                <img class="w-20 h-20 mb-8 p-1 object-contain object-center rounded-full inline-block border-4 border-[#4C6957]" src="https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg" [alt]="testimonial.name">
                 <div class="flex items-center justify-center mb-4">
                   @for (star of [1,2,3,4,5]; track star) {
                     <i class="fas fa-star" [class.text-yellow-500]="star <= testimonial.rating" 
@@ -242,42 +240,42 @@ interface Testimonial {
 export class TestimonialComponent {
   testimonials: Testimonial[] = [
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg',
+     
       name: 'Ichwan & Endah',
       location: 'Kalianda',
       review: 'Desain yang sangat elegan dan proses pemesanan yang mudah. Tim KREYASI sangat membantu dalam customisasi desain sesuai keinginan kami.',
       rating: 5
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg',
+     
       name: 'Anita & Budi',
       location: 'Bandung',
       review: 'Hasil undangan digitalnya memuaskan dan pengerjaan yang cepat. Recommended untuk yang mencari undangan digital berkualitas!',
       rating: 5
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg',
+     
       name: 'Rini & Andi',
       location: 'Yogyakarta',
       review: 'Sangat puas dengan layanan KREYASI. Desainnya modern dan sesuai dengan tema pernikahan kami. Terima kasih!',
       rating: 5
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg',
+     
       name: 'Dian & Eko',
       location: 'Surabaya',
       review: 'Proses pemesanan yang cepat dan tim support yang responsif. Hasilnya memuaskan dan banyak tamu yang memuji desainnya.',
       rating: 4
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg',
+     
       name: 'Siti & Rahmat',
       location: 'Jakarta',
       review: 'KREYASI memberikan solusi undangan digital yang elegan dan praktis. Sangat membantu di masa pandemi ini.',
       rating: 5
     },
     {
-      image: 'https://res.cloudinary.com/dvqq3izfb/image/upload/v1728886036/user-solid_r6taxs.svg',
+     
       name: 'Maya & Gilang',
       location: 'Semarang',
       review: 'Desain yang unik dan sesuai dengan budget kami. Proses revisi juga cepat dan mudah. Terima kasih KREYASI!',
